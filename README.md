@@ -19,8 +19,9 @@ The study focuses on both:
 
 - ✅ **Baseline CNN**  
 - 🔧 **Improved CNN** (with Batch Normalization & Dropout)  
-- 🌱 **EfficientNetB0** (transfer learning with grayscale support)  
-- 🧱 **ResNet18** (transfer learning with fine-tuning)
+- 🌱 **EfficientNetB0** (transfer learning with fine-tuning)
+- 🧱 **ResNet18** (transfer learning with grayscale support) 
+
 
 ## Key Results
 
