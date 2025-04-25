@@ -35,11 +35,11 @@ The study focuses on both:
 ## Folder Structure
 
 Dataset:
--Single Classfication Dataset
--Multiclass Dataset
+- Single Classfication Dataset
+- Multiclass Dataset
 Codebase:
--Multi Class.ipynb
--Binary Classification.ipynb
+- Multi Class.ipynb
+- Binary Classification.ipynb
 
 
 ## Explainability
